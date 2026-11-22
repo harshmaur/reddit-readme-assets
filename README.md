@@ -1,1 +1,1 @@
-Images for the README pages of the Reddit scraper listings on the Apify Store.
+Images for the README pages and Store pictures of the Reddit scraper listings and the AI listings on the Apify Store.
